@@ -1,0 +1,21 @@
+{
+    "name": "creativesyntax/contactus",
+    "description": "It will generate contact us page and save contact data in table also send mail to admin & user both.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arindam Roy",
+            "email": "arindam.roy.developer@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Creativesyntax\\Contactus\\": "src/"
+        }
+    }
+}
